@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datenschutzerklärung</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #222;
+        }
+        h1, h2 {
+            color: #000;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        a {
+            color: #0066cc;
+        }
+        .stand {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Datenschutzerklärung</h1>
+
+<h2>1. Verantwortlicher</h2>
+<p>
+Verantwortlich für die Datenverarbeitung in dieser App ist:<br><br>
+Edgar Löwen<br>
+An der Spille 8<br>
+31552 Apelern<br>
+Deutschland<br>
+E-Mail: <a href="mailto:ed.loewen@gmx.de">ed.loewen@gmx.de</a>
+</p>
+
+<h2>2. Allgemeine Hinweise zur Datenverarbeitung</h2>
+<p>
+Der Schutz Ihrer persönlichen Daten ist mir ein wichtiges Anliegen.
+Diese App verarbeitet personenbezogene Daten ausschließlich im Rahmen der gesetzlichen Bestimmungen
+der Datenschutz-Grundverordnung (DSGVO).
+</p>
+<p>
+Diese App selbst erhebt keine personenbezogenen Daten direkt vom Nutzer.
+Allerdings werden durch die Einbindung von Drittanbietern (z. B. Werbenetzwerke) Daten verarbeitet.
+</p>
+
+<h2>3. Verwendung von Google AdMob</h2>
+<p>
+Diese App verwendet das Werbenetzwerk Google AdMob, einen Dienst der:
+</p>
+
+<p>
+Google Ireland Limited<br>
+Gordon House<br>
+Barrow Street<br>
+Dublin 4<br>
+Irland
+</p>
+
+<p>
+AdMob dient der Anzeige von Werbeanzeigen innerhalb der App.
+</p>
+
+<p>Im Rahmen der Nutzung können folgende Daten verarbeitet werden:</p>
+<ul>
+    <li>Werbe-ID des Geräts</li>
+    <li>IP-Adresse</li>
+    <li>Geräteinformationen (Gerätemodell, Betriebssystem, Sprache)</li>
+    <li>Interaktionsdaten (z. B. Klicks auf Anzeigen)</li>
+    <li>Nutzungsdaten</li>
+    <li>Diagnosedaten</li>
+</ul>
+
+<p>
+Diese Daten können von Google zur Personalisierung von Werbung verwendet werden.
+Weitere Informationen finden Sie in der Datenschutzerklärung von Google:
+<a href="https://policies.google.com/privacy" target="_blank">
+https://policies.google.com/privacy
+</a>
+</p>
+
+<h2>4. Rechtsgrundlage der Verarbeitung</h2>
+<p>
+Die Verarbeitung personenbezogener Daten erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+Das berechtigte Interesse liegt in der Finanzierung und wirtschaftlichen Bereitstellung dieser App durch Werbeanzeigen.
+</p>
+<p>
+Sofern eine Einwilligung über ein Einwilligungsbanner (z. B. Google UMP) eingeholt wird,
+erfolgt die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO.
+</p>
+
+<h2>5. Datenübermittlung in Drittländer</h2>
+<p>
+Durch die Nutzung von Google AdMob kann eine Übermittlung personenbezogener Daten in die USA erfolgen.
+Google stützt sich dabei auf die Standardvertragsklauseln der EU-Kommission oder andere geeignete Garantien gemäß Art. 46 DSGVO.
+</p>
+
+<h2>6. Speicherdauer</h2>
+<p>
+Die Speicherdauer der Daten wird durch Google festgelegt.
+Nähere Informationen hierzu finden Sie in der Datenschutzerklärung von Google.
+</p>
+
+<h2>7. Ihre Rechte</h2>
+<p>Sie haben nach der DSGVO folgende Rechte:</p>
+<ul>
+    <li>Recht auf Auskunft (Art. 15 DSGVO)</li>
+    <li>Recht auf Berichtigung (Art. 16 DSGVO)</li>
+    <li>Recht auf Löschung (Art. 17 DSGVO)</li>
+    <li>Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)</li>
+    <li>Recht auf Datenübertragbarkeit (Art. 20 DSGVO)</li>
+    <li>Recht auf Widerspruch gegen die Verarbeitung (Art. 21 DSGVO)</li>
+</ul>
+
+<p>
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
+</p>
+
+<h2>8. Widerruf einer Einwilligung</h2>
+<p>
+Sofern eine Einwilligung zur Datenverarbeitung erteilt wurde,
+kann diese jederzeit mit Wirkung für die Zukunft widerrufen werden.
+</p>
+
+<h2>9. Änderung dieser Datenschutzerklärung</h2>
+<p>
+Ich behalte mir vor, diese Datenschutzerklärung anzupassen,
+um sie an geänderte Rechtslagen oder Änderungen der App anzupassen.
+</p>
+
+<p class="stand">
+Stand: Februar 2026
+</p>
+
+</body>
+</html>
